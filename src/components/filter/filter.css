@@ -1,0 +1,12 @@
+.filter {
+  padding: 10px 0;
+  font-size: 1em;
+  text-align: center;
+}
+.filter button {
+  width: 23%;
+  min-width: 150px;
+}
+.filter .active {
+  font-weight: bold;
+}

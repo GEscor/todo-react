@@ -1,0 +1,26 @@
+.task {
+  display: block;
+  width: 100%;
+  margin: 5px auto;
+  padding: 10px 0;
+  border-radius: 10px;
+  font-size: 18px;
+}
+.task-name {
+  width: calc(100% - 110px - 130px - 90px);
+  min-width: 200px;
+  text-align: center;
+}
+.task-name:first-letter {
+  text-transform: capitalize;
+}
+.task-end-time {
+  width: 80px;
+}
+.task-end-date {
+  width: 120px;
+}
+.task-description {
+  display: block;
+  padding: 5px;
+}

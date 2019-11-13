@@ -1,0 +1,92 @@
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.all {
+  background-color: #fff;
+}
+.low {
+  background-color: #c0e5a5;
+}
+.med {
+  background-color: #efef83;
+}
+.high {
+  background-color: #e57472;
+}
+.failed {
+  background: repeating-linear-gradient(
+    45deg,
+    #e57472,
+    #e57472 10px,
+    #fff 10px,
+    #fff 20px
+  );
+}
+
+/*
+
+.empty {
+  width: calc(100% - 20px);
+}
+
+
+
+*/
+
+/*
+.timer {
+  display: block;
+  text-align: center;
+}
+.timer span {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.task {
+  margin: 5px;
+  padding: 10px;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.done {
+  width: 100px;
+}
+.modify,
+.delete {
+  width: calc(50% - 10px);
+  width: 200px;
+}
+.filter-field {
+  text-align: center;
+  border-bottom: 5px solid #fff;
+}
+.filter,
+.task-radio {
+  display: inline-block;
+  padding: 10px 5px;
+  margin: 5px;
+  width: 23%;
+  min-width: 200px;
+  border-radius: 10px;
+}
+
+.task-list {
+  border-bottom: 5px solid #fff;
+}
+
+.passed {
+  width: calc(100% - 40px);
+  padding: 15px 10px;
+  background-color: lightgrey;
+}
+
+.hint {
+  font-size: 14px;
+  color: grey;
+}
+*/
